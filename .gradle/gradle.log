@@ -8,7 +8,7 @@
 :downloadClient SKIPPED
 :downloadServer SKIPPED
 :getVersionJson
-:extractUserDev
+:extractUserDev UP-TO-DATE
 :mergeJars SKIPPED
 :applyBinPatches SKIPPED
 :downloadMcpTools SKIPPED
@@ -22,6 +22,8 @@
 :compileJavawarning: [options] bootstrap class path not set in conjunction with -source 1.6
 Note: Some input files use or override a deprecated API.
 Note: Recompile with -Xlint:deprecation for details.
+Note: D:\Java\SkyMine\forestry\build\sources\java\forestry\storage\items\ItemBackpack.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
 1 warning
 
 :processResources UP-TO-DATE
@@ -38,4 +40,4 @@ Note: Recompile with -Xlint:deprecation for details.
 
 BUILD SUCCESSFUL
 
-Total time: 1 mins 29.002 secs
+Total time: 50.722 secs

@@ -28,4 +28,5 @@ minecraft {
 
 dependencies {
 	compile files('lib/forestry.jar')
+  compile fileTree(dir: 'lib', include: '*-dev.jar')
 }
